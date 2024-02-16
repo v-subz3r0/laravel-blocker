@@ -11,12 +11,8 @@
     "type": "library",
     "authors": [
         {
-            "name": "Joost van Veen",
-            "email": "joost@accentinteractive.nl",
-            "role": "Developer"
-        },
-        {
             "name": "Vladimir Savitchi",
+            "email": "vladimir.savitchi@gmail.com",
             "role": "Developer"
         }
     ],
