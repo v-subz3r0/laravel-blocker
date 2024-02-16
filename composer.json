@@ -1,17 +1,22 @@
 {
-    "name": "accentinteractive/laravel-blocker",
+    "name": "v-subz3r0/laravel-blocker",
     "description": "Block bad bots and users that visit certain (exploit) urls for a set amount of time.",
     "keywords": [
+        "v-subz3r0",
         "accentinteractive",
         "laravel-blocker"
     ],
-    "homepage": "https://github.com/accentinteractive/laravel-blocker",
+    "homepage": "https://github.com/v-subz3r0/laravel-blocker",
     "license": "MIT",
     "type": "library",
     "authors": [
         {
             "name": "Joost van Veen",
             "email": "joost@accentinteractive.nl",
+            "role": "Developer"
+        },
+        {
+            "name": "Vladimir Savitchi",
             "role": "Developer"
         }
     ],
