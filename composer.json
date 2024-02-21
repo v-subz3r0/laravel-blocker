@@ -3,7 +3,6 @@
     "description": "Block bad bots and users that visit certain (exploit) urls for a set amount of time.",
     "keywords": [
         "v-subz3r0",
-        "accentinteractive",
         "laravel-blocker"
     ],
     "homepage": "https://github.com/v-subz3r0/laravel-blocker",
@@ -12,7 +11,7 @@
     "authors": [
         {
             "name": "Vladimir Savitchi",
-            "email": "vladimir.savitchi@gmail.com",
+            "email": "fullstackflame@gmail.com",
             "role": "Developer"
         }
     ],
